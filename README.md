@@ -46,6 +46,6 @@ OpenGL, C++, Visual Studio 2010
 
 Ackowledgement
 
-The mouse interaction part is from Gordon Wetzstein's SimpleGlut program. 
+The mouse interaction part is based on Gordon Wetzstein's SimpleGlut program. 
 
 =================
