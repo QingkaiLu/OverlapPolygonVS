@@ -10,7 +10,7 @@ in real time.
 
 =================
 
-2. How to run and use this program?
+How to run and use this program?
 
 Use Visual Studio 2010 to run this program. 
 
@@ -18,7 +18,9 @@ Two parallel triangles(one Cyan, one Red) are shown in the 3D space are shown in
 two triangles is shown with Black color. When you rotate the triangles(i.e. see two triangles from differnt view), you 
 can see the changing overlap part in real time.
 
-3. How do I implement this program?
+=================
+
+How did I implement this program?
 
 The depth buffer(i.e. Z-buffer) is used to check whether two polygons overlap or not for each pixel. 
 
@@ -37,9 +39,15 @@ e. Draw P1 and P2 again.
 f. For the pixles whose depth of Z1 and Z2 are both not infinite(i.e. pixels occupied by both P1 and P2), draw them with
 black color. Draw other not overlapping pixels with transparent color.
 
-4. Languages and Tools 
+=================
+
+Languages and Tools 
 OpenGL, C++, Visual Studio 2010
 
-5. Ackowledgement
+=================
+
+Ackowledgement
 
 The mouse interaction part is from Gordon Wetzstein's SimpleGlut program. 
+
+=================
