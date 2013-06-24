@@ -3,7 +3,7 @@ OverlapPolygonVS2010
 
 What does this program do?
 
-This program transforms (including rotation, panning and zooming) rotates two polygons in the 3D space and show their overlap part of the two polygons
+This program transforms (including rotation, panning and zooming) two polygons in the 3D space and show their overlap part of the two polygons
 in real time.
 
 =================
