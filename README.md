@@ -1,7 +1,5 @@
-OverlapPolygonVS
+OverlapPolygonVS2010
 ================
-
-Show the overlap of two polygons in 3D space(Visual Studio 2010 Version)
 
 What does this program do?
 
