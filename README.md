@@ -1,13 +1,13 @@
 OverlapPolygonVS
 ================
 
-Show the overlap of two polygons in 3d space(Visual Studio 2010 Version)
+Show the overlap of two polygons in 3D space(Visual Studio 2010 Version)
 
-1. What does this program do?
+What does this program do?
 
 This program transforms (including rotation, panning and zooming) rotates two polygons in the 3D space and show their overlap part of the two polygons
 in real time.
-
+===================================================================================================
 2. How to run and use this program?
 
 Use Visual Studio 2010 to run this program. 
