@@ -35,7 +35,7 @@ d. Clear the color buffer and Z-buffer.
 e. Draw P1 and P2 again.
 
 f. For the pixles whose depth of Z1 and Z2 are both not infinite(i.e. pixels occupied by both P1 and P2), draw them with
-black color. Draw other not overlapping pixels with transparent color.
+black color. Draw other non-overlapping pixels with transparent color.
 
 =================
 
@@ -44,7 +44,7 @@ OpenGL, C++, Visual Studio 2010
 
 =================
 
-Ackowledgement
+Acknowledgement
 
 The mouse interaction part is based on Gordon Wetzstein's SimpleGlut program. 
 
